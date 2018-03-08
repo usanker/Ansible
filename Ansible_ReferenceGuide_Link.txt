@@ -1,0 +1,26 @@
+http://docs.ansible.com/ansible/latest/playbooks_intro.html
+
+http://docs.ansible.com/ansible/latest/intro_patterns.html
+
+http://docs.ansible.com/ansible/latest/playbooks_intro.html#about-playbooks
+
+http://docs.ansible.com/ansible/latest/playbooks.html
+
+http://docs.ansible.com/ansible/latest/YAMLSyntax.html
+----------------------------------------------------
+http://docs.ansible.com/ansible/latest/become.html
+
+By 
+Mumshad Mannambeth
+
+
+https://www.youtube.com/watch?v=reTOzxRaLH0 --Ansible Training-Ansible Playbook Writing
+ 
+https://www.youtube.com/watch?v=U9_gfT0n_5Q --Ansible - Understanding YAML with Coding Exercises
+
+https://www.youtube.com/watch?v=Z01b9QZG0D0 --Ansible - Playbooks for beginners - Hands-On
+
+https://www.youtube.com/watch?v=bDgyviNGbiQ --Introduction to Ansible - Hands-On
+
+-------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=Lyqy7d7uPS4 --VirtualMuleys#2: CI/CD - Automating Mule Deployments 
